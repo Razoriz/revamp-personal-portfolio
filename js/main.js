@@ -269,7 +269,7 @@
       ],
     });
   };
-
+  // JS typewriter section for home page
   var span = document.querySelector(".typewriter span");
   var textArr = span.getAttribute("data-text").split(", ");
   var maxTextIndex = textArr.length;
