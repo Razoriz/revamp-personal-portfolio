@@ -1255,7 +1255,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .project .desc h3 {
   font-family: "Quicksand", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1270,6 +1270,7 @@ body.offcanvas .colorlib-nav-toggle {
   margin-bottom: 15px;
   color: #fff;
 }
+
 .project .desc h3 a {
   color: #fff;
 }
