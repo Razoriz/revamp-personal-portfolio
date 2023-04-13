@@ -442,7 +442,7 @@ figure figcaption {
   .slider-text
   > .slider-text-inner
   .btn.btn-learn:hover {
-  background: transparent !important;
+  background: #2c98f0 !important;
   border: 1px solid #000 !important;
 }
 @media screen and (max-width: 768px) {
@@ -1890,3 +1890,5 @@ body.offcanvas .colorlib-nav-toggle {
 .dev-icons {
   font-size: 3rem;
 }
+
+
